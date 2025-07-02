@@ -1,2 +1,1 @@
-Ai Jobs Analyst
 https://nbviewer.org/github/syafrafnjn/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20With%20Python/EDA%20Electric%20Car%20Vehicle.ipynb
